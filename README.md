@@ -4,11 +4,11 @@ This is a Maze completion program which finds the Shortest Path to complete the 
 Here's the Images how the Code will look while executing:<br/>
 ![plot](./shortest_path_finder/imgs/1.png)
 <br/>
-#After Completion:<br/>
+# After Completion:<br/>
 ![plot](./shortest_path_finder/imgs/2.png)
 <br/><br/>
-#On Windows use:<br/>
+# On Windows use:<br/>
 -->pip install -r requirements.txt
 
-#To run the Program use:<br/>
+# To run the Program use:<br/>
 ---> python shortest_path_finder.py
